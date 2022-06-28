@@ -408,7 +408,7 @@ p {
 }
 
 
-@media(min-width: 425px) and (max-width: 780px) {
+@media(max-width: 425px) {
 
     .menu__list {
         padding-top: 20%;

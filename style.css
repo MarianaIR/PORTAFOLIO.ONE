@@ -12,7 +12,7 @@ body {
     margin: 0;
     padding: 50px;
     line-height: 1;
-    color: #d8dfe8
+    color: #d8dfe8;
 }
 
 ol,
@@ -34,6 +34,7 @@ a:hover {
 .menu__header {
     display: flex;
     flex-wrap: wrap;
+   
 }
 
 img {
@@ -408,7 +409,7 @@ p {
 }
 
 
-@media(max-width: 425px) {
+@media(max-width: 780px) {
 
     .menu__list {
         padding-top: 20%;
